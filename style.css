@@ -1,3 +1,8 @@
 h1{
-    font-family: Platypi ; Arial
+    .platypi-<uniquifier> {
+        font-family: "Platypi", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+      }
 }
