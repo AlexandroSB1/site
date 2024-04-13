@@ -1,8 +1,6 @@
 h1{
-    .platypi-<uniquifier> {
         font-family: "Platypi", serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
         font-style: normal;
       }
-}
